@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: System-Check
+Version: 1.0.0
+Summary: A python3 script that returns information on the running system.
+Home-page: https://gitlab.banksiteservices.co/marcus/system-check
+Author: Marcus Hancock-Gaillard
+Author-email: marcus@banksiteservices.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://gitlab.banksiteservices.co/marcus/system-check/-/issues
+Project-URL: Source, https://gitlab.banksiteservices.co/marcus/system-check
+Description: # System Check
+        
+        Script that will check the system for services, performance, etc.
+Keywords: system checks
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.5, <4
+Description-Content-Type: text/markdown

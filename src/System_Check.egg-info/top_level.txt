@@ -1,0 +1,6 @@
+check_cpu
+check_disk
+check_mem
+check_net
+check_procs
+check_users
